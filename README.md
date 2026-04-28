@@ -1,6 +1,13 @@
 # Git Practice Project
 
-**Name:** Dipta Saha
+## Author
+**Dipta Saha**
 
-## Description
-This project is a simple Python calculator project for practicing Git and GitHub.
+## Features
+- Prints user name
+- Prints today's date
+- Performs calculator operations
+
+## Technologies Used
+- Python
+- Git & GitHub
